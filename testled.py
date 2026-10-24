@@ -2,6 +2,9 @@ from gpiozero import RGBLED
 from time import sleep
 import pyttsx3
 import random
+'ajouter par brian'
+from threading import Thread
+from moteur import lancer_moteur
 
 led1 = RGBLED(red=16, green=21, blue=20)
 led2 = RGBLED(red=14, green=18, blue=15)
@@ -64,5 +67,6 @@ def bonne_reponse():
 def mauvaise_reponse():
     led_rouge()
     dire(random.choice(phrases_incorrectes))
-
-
+#ajouter par brian
+    thread = lancer_moteur()
+    thread.join()
