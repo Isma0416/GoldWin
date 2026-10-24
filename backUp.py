@@ -14,6 +14,8 @@ import speech_recognition as sr
 QUESTIONS_FILE = Path(__file__).resolve().parent / "data" / "questions.json"
 MICROPHONE_DEVICE = "plughw:3,0"
 RECORDING_DURATION = 5
+RECORDING_TIMEOUT = RECORDING_DURATION + 10
+RECOGNITION_TIMEOUT = 15
 
 
 def load_questions() -> list[dict[str, Any]]:
@@ -60,7 +62,11 @@ def speak(text: str, language: str, engine: Any) -> None:
 
 
 def record_answer(file_path: Path, language: str) -> str:
-    print(f"Je t'écoute pendant {RECORDING_DURATION} secondes...")
+    print(
+        f"Je t'écoute pendant {RECORDING_DURATION} secondes "
+        f"(micro {MICROPHONE_DEVICE})...",
+        flush=True,
+    )
     subprocess.run(
         [
             "arecord",
@@ -77,9 +83,12 @@ def record_answer(file_path: Path, language: str) -> str:
             str(file_path),
         ],
         check=True,
+        timeout=RECORDING_TIMEOUT,
     )
+    print("Enregistrement terminé. Reconnaissance vocale en cours...", flush=True)
 
     recognizer = sr.Recognizer()
+    recognizer.operation_timeout = RECOGNITION_TIMEOUT
     with sr.AudioFile(str(file_path)) as source:
         audio = recognizer.record(source)
 
@@ -130,6 +139,18 @@ def main() -> None:
             return
         except sr.RequestError as error:
             print("Erreur du service de reconnaissance vocale :", error)
+            return
+        except subprocess.TimeoutExpired:
+            print(
+                f"Le microphone n'a pas terminé après {RECORDING_TIMEOUT} secondes. "
+                "Vérifie le périphérique et le pilote ALSA."
+            )
+            return
+        except subprocess.CalledProcessError as error:
+            print(
+                f"arecord a échoué (code {error.returncode}). "
+                "Vérifie le périphérique indiqué par arecord -l."
+            )
             return
 
     print("Tu as dit :", answer)
