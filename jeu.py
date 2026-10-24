@@ -25,8 +25,8 @@ PIN_STOP     = 22           # bouton Stop
 # ==========================================================================
 
 # ---------- Broches (vos pins) ----------
-led1 = RGBLED(red=16, green=21, blue=20)   # oeil 1
-led2 = RGBLED(red=14, green=18, blue=15)   # oeil 2
+led1 = RGBLED(red=16, green=5, blue=6)   # oeil 1
+led2 = RGBLED(red=14, green=26, blue=15)   # oeil 2
 pir  = MotionSensor(27)                    # capteur de presence
 bouton_start = Button(PIN_START, bounce_time=0.1)
 bouton_stop  = Button(PIN_STOP,  bounce_time=0.1)
