@@ -1,11 +1,9 @@
 import json
 import random
 import re
-import struct
 import subprocess
 import tempfile
 import unicodedata
-import wave
 from pathlib import Path
 from typing import Any
 
@@ -59,26 +57,6 @@ def speak(text: str, language: str, engine: Any) -> None:
         engine.setProperty("voice", voice_id)
     engine.say(text)
     engine.runAndWait()
-
-
-def play_beep(file_path: Path) -> None:
-    sample_rate = 44100
-    duration = 0.3
-    frequency = 880
-    amplitude = 12000
-    sample_count = int(sample_rate * duration)
-
-    with wave.open(str(file_path), "wb") as audio_file:
-        audio_file.setnchannels(1)
-        audio_file.setsampwidth(2)
-        audio_file.setframerate(sample_rate)
-        samples = (
-            struct.pack("<h", int(amplitude * (1 if (sample * frequency // sample_rate) % 2 == 0 else -1)))
-            for sample in range(sample_count)
-        )
-        audio_file.writeframes(b"".join(samples))
-
-    subprocess.run(["aplay", "-q", str(file_path)], check=True)
 
 
 def record_answer(file_path: Path, language: str) -> str:
@@ -141,7 +119,7 @@ def main() -> None:
 
     with tempfile.TemporaryDirectory() as temporary_directory:
         temporary_path = Path(temporary_directory)
-        play_beep(temporary_path / "signal.wav")
+        speak("Ding !", prompt_language, engine)
 
         try:
             answer = record_answer(temporary_path / "reponse.wav", recognizer_language)
