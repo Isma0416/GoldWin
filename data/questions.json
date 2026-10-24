@@ -1,0 +1,502 @@
+[
+    {
+    "id": 1,
+    "english": "If your answer is correct, it follows that mine is wrong.",
+    "french": "Si ta réponse est correcte, cela signifie que la mienne est incorrecte."
+    },
+    {
+    "id": 2,
+    "english": "France seems to be swinging left - Britain to the right.",
+    "french": "La France semble pencher à gauche, la Grande-Bretagne à droite."
+    },
+    {
+    "id": 3,
+    "english": "The value of the dollar declines as the rate of inflation rises.",
+    "french": "La valeur du dollar tombe avec un taux d'inflation croissant."
+    },
+    {
+    "id": 4,
+    "english": "What is your name?",
+    "french": "Quel est ton nom ?"
+    },
+    {
+    "id": 5,
+    "english": "Being happy always reminded her of her loss.",
+    "french": "Le fait d'être heureuse lui rappelait ce qu'elle avait perdu."
+    },
+    {
+    "id": 6,
+    "english": "Go and help wash the dishes.",
+    "french": "Va aider à laver les plats."
+    },
+    {
+    "id": 7,
+    "english": "I am going to apply for a visa today.",
+    "french": "Je vais faire une demande de visa aujourd'hui."
+    },
+    {
+    "id": 8,
+    "english": "You must keep your hands clean.",
+    "french": "Tu dois garder les mains propres."
+    },
+    {
+    "id": 9,
+    "english": "He's a teacher of physics, but can also teach math.",
+    "french": "C’est un professeur de physique, mais il peut aussi enseigner les mathématiques."
+    },
+    {
+    "id": 10,
+    "english": "She was afraid of waking the baby.",
+    "french": "Elle craignait de réveiller le bébé."
+    },
+    {
+    "id": 11,
+    "english": "The hunters aimed at the elephant.",
+    "french": "Les chasseurs ont mis l'éléphant en joue."
+    },
+    {
+    "id": 12,
+    "english": "All these books are mine.",
+    "french": "Tous ces livres sont à moi."
+    },
+    {
+    "id": 13,
+    "english": "What's more, Chinese people like taking naps.",
+    "french": "De plus, les Chinois aiment faire la sieste."
+    },
+    {
+    "id": 14,
+    "english": "Don't forget to answer his letter.",
+    "french": "N'oubliez pas de répondre à sa lettre."
+    },
+    {
+    "id": 15,
+    "english": "Can you understand the meaning of this sentence?",
+    "french": "Pouvez-vous comprendre le sens de cette phrase ?"
+    },
+    {
+    "id": 16,
+    "english": "Water is important.",
+    "french": "L'eau est importante."
+    },
+    {
+    "id": 17,
+    "english": "The world population grows by close to eight million per year.",
+    "french": "La population mondiale croît annuellement de presque quatre-vingt-dix millions."
+    },
+    {
+    "id": 18,
+    "english": "It's always difficult to start a letter.",
+    "french": "Il est toujours difficile de commencer une lettre."
+    },
+    {
+    "id": 19,
+    "english": "His wife and his son were already sound asleep.",
+    "french": "Sa femme et son fils dormaient déjà profondément."
+    },
+    {
+    "id": 20,
+    "english": "My hair is a mess.",
+    "french": "Mes cheveux sont en pagaille."
+    },
+    {
+    "id": 21,
+    "english": "You must respect your elders.",
+    "french": "Vous devez respecter vos aînés."
+    },
+    {
+    "id": 22,
+    "english": "Sometimes I can run as fast as the wind.",
+    "french": "Parfois, je suis capable de courir comme le vent."
+    },
+    {
+    "id": 23,
+    "english": "The government collapsed after a vote in parliament.",
+    "french": "Le gouvernement est tombé après un vote au parlement."
+    },
+    {
+    "id": 24,
+    "english": "He looked surprised.",
+    "french": "Il eut l'air surpris."
+    },
+    {
+    "id": 25,
+    "english": "I had issues I had to deal with.",
+    "french": "J'ai eu des problèmes qu'il m'a fallu traiter."
+    },
+    {
+    "id": 26,
+    "english": "I got a weird email.",
+    "french": "J'ai reçu un courriel bizarre."
+    },
+    {
+    "id": 27,
+    "english": "I sure am glad you weren't hurt.",
+    "french": "Je me réjouis certainement que vous n'ayez pas été blessé."
+    },
+    {
+    "id": 28,
+    "english": "We are lost in the middle of nowhere.",
+    "french": "Nous sommes perdues au centre de nulle part."
+    },
+    {
+    "id": 29,
+    "english": "You played.",
+    "french": "Tu as joué."
+    },
+    {
+    "id": 30,
+    "english": "I can't afford to do that.",
+    "french": "Je n'ai pas les moyens de faire ça."
+    },
+    {
+    "id": 31,
+    "english": "My older sister is a female ninja.",
+    "french": "Ma grande sœur est une ninja."
+    },
+    {
+    "id": 32,
+    "english": "Have they spotted you?",
+    "french": "T'ont-ils repérée ?"
+    },
+    {
+    "id": 33,
+    "english": "He took off his coat.",
+    "french": "Il enleva son manteau."
+    },
+    {
+    "id": 34,
+    "english": "If somebody wants to bad-mouth you, you should just let them say whatever they want. It's a waste of time to get bothered by it.",
+    "french": "Si quelqu'un veut te salir, tu devrais le laisser dire. S'en soucier est une perte de temps."
+    },
+    {
+    "id": 35,
+    "english": "He raised his arm.",
+    "french": "Il leva la main."
+    },
+    {
+    "id": 36,
+    "english": "They were all hysterical.",
+    "french": "Ils étaient tous hystériques."
+    },
+    {
+    "id": 37,
+    "english": "How much are you being paid to do this?",
+    "french": "Combien êtes-vous payés pour faire ceci ?"
+    },
+    {
+    "id": 38,
+    "english": "Have you told your mom?",
+    "french": "L'as-tu dit à ta mère ?"
+    },
+    {
+    "id": 39,
+    "english": "He doesn't admit his defeat.",
+    "french": "Il n'admet pas sa défaite."
+    },
+    {
+    "id": 40,
+    "english": "Don't break his heart.",
+    "french": "Ne lui brisez pas le cœur."
+    },
+    {
+    "id": 41,
+    "english": "We still have a ways to go.",
+    "french": "Nous avons encore beaucoup de chemin à parcourir."
+    },
+    {
+    "id": 42,
+    "english": "I have more experience than Tom.",
+    "french": "J'ai plus d'expérience que Tom."
+    },
+    {
+    "id": 43,
+    "english": "That's easy.",
+    "french": "C'est facile."
+    },
+    {
+    "id": 44,
+    "english": "Those are good.",
+    "french": "Celles-ci sont bonnes."
+    },
+    {
+    "id": 45,
+    "english": "Do you want to eat anything?",
+    "french": "Veux-tu manger quelque chose ?"
+    },
+    {
+    "id": 46,
+    "english": "Iran and Russia will establish a joint bank.",
+    "french": "L'Iran et la Russie vont établir une banque commune."
+    },
+    {
+    "id": 47,
+    "english": "What time did you wake up this morning?",
+    "french": "À quelle heure t'es-tu réveillée ce matin ?"
+    },
+    {
+    "id": 48,
+    "english": "There are a lot of problems we can't avoid.",
+    "french": "Il y a beaucoup de problèmes que nous ne pouvons pas éviter."
+    },
+    {
+    "id": 49,
+    "english": "All was quiet except that buses sometimes ran.",
+    "french": "Tout était calme, sauf quand parfois des bus passaient."
+    },
+    {
+    "id": 50,
+    "english": "I came here to discuss a personal problem with you.",
+    "french": "Je suis venu ici pour discuter d'un problème personnel avec vous."
+    },
+    {
+    "id": 51,
+    "english": "Three years ago something like this never would've happened.",
+    "french": "Il y a trois ans, quelque chose comme ça ne serait jamais arrivé."
+    },
+    {
+    "id": 52,
+    "english": "I love my kids.",
+    "french": "J'aime mes enfants."
+    },
+    {
+    "id": 53,
+    "english": "I've opened many Facebook and Twitter accounts since 2008. I now have six Facebook accounts and fifteen Twitter accounts.",
+    "french": "J'ai ouvert beaucoup de comptes Facebook et Twitter depuis 2008. Je possède maintenant six comptes Facebook et quinze comptes Twitter."
+    },
+    {
+    "id": 54,
+    "english": "You were the first girl I ever kissed.",
+    "french": "Tu as été la première fille que j'ai embrassée."
+    },
+    {
+    "id": 55,
+    "english": "They're still in touch with each other.",
+    "french": "Ils sont toujours en contact."
+    },
+    {
+    "id": 56,
+    "english": "Let Tom take a look at it.",
+    "french": "Laisse Tom y jeter un coup d'œil."
+    },
+    {
+    "id": 57,
+    "english": "The conversation lasted until after midnight.",
+    "french": "La conversation dura jusqu'après minuit."
+    },
+    {
+    "id": 58,
+    "english": "They are going to take your advice.",
+    "french": "Elles vont suivre votre conseil."
+    },
+    {
+    "id": 59,
+    "english": "Pizza, please.",
+    "french": "Une pizza, s'il vous plaît."
+    },
+    {
+    "id": 60,
+    "english": "They'll call.",
+    "french": "Ils vont téléphoner."
+    },
+    {
+    "id": 61,
+    "english": "I'm not good at thinking logically.",
+    "french": "Je ne suis pas doué pour penser de manière logique."
+    },
+    {
+    "id": 62,
+    "english": "Abracadabra! And three doves flew out of his hat.",
+    "french": "« Abracadabra ! » Et trois colombes s'envolèrent de son chapeau."
+    },
+    {
+    "id": 63,
+    "english": "He took a taxi because he was in a hurry.",
+    "french": "Comme il était pressé, il a pris un taxi."
+    },
+    {
+    "id": 64,
+    "english": "They've crossed the street.",
+    "french": "Elles ont traversé la rue."
+    },
+    {
+    "id": 65,
+    "english": "At the time, we had an internet service plan of 30 hours. Per month.",
+    "french": "À l'époque, on avait un forfait Internet 30 heures. Par mois."
+    },
+    {
+    "id": 66,
+    "english": "I'm hoping to arrive this weekend.",
+    "french": "J'espère arriver ce week-end."
+    },
+    {
+    "id": 67,
+    "english": "Let's practice together.",
+    "french": "Entraînons-nous ensemble."
+    },
+    {
+    "id": 68,
+    "english": "If you don't like what we're doing, then leave.",
+    "french": "Si vous n'aimez pas ce que nous faisons, alors allez-vous-en."
+    },
+    {
+    "id": 69,
+    "english": "The Russian-Ukrainian war is a war between two alcoholics.",
+    "french": "La guerre russo-ukrainienne est une guerre entre deux alcooliques."
+    },
+    {
+    "id": 70,
+    "english": "I am retired.",
+    "french": "Je suis à la retraite."
+    },
+    {
+    "id": 71,
+    "english": "The poker player stared down at the cards in his hand like they held the answers to life's great mysteries.",
+    "french": "Le joueur de poker fixait les cartes dans sa main comme si elles contenaient les réponses aux grands mystères de la vie."
+    },
+    {
+    "id": 72,
+    "english": "He exaggerates.",
+    "french": "Il exagère."
+    },
+    {
+    "id": 73,
+    "english": "That's Ziri.",
+    "french": "C'est Ziri."
+    },
+    {
+    "id": 74,
+    "english": "The earth revolves around an imaginary axis.",
+    "french": "La Terre tourne autour d'un axe imaginaire."
+    },
+    {
+    "id": 75,
+    "english": "Let's do this some other time.",
+    "french": "Faisons cela une autre fois."
+    },
+    {
+    "id": 76,
+    "english": "How wonderful this is!",
+    "french": "Comme c'est merveilleux !"
+    },
+    {
+    "id": 77,
+    "english": "Sit on the sofa and make yourself comfortable.",
+    "french": "Asseyez-vous sur le canapé et mettez-vous à l'aise."
+    },
+    {
+    "id": 78,
+    "english": "The neighbour asked us to turn the music down.",
+    "french": "Le voisin nous a demandé de baisser la musique."
+    },
+    {
+    "id": 79,
+    "english": "Tom doesn't need to go to the dentist's.",
+    "french": "Tom n'a pas besoin d'aller chez le dentiste."
+    },
+    {
+    "id": 80,
+    "english": "He lowered the curtain.",
+    "french": "Il a abaissé le rideau."
+    },
+    {
+    "id": 81,
+    "english": "He thought for a moment.",
+    "french": "Il réfléchit un instant."
+    },
+    {
+    "id": 82,
+    "english": "I thought that you'd like it.",
+    "french": "Je pensais que vous l'apprécieriez."
+    },
+    {
+    "id": 83,
+    "english": "Someone wants to meet you.",
+    "french": "Quelqu'un veut vous rencontrer."
+    },
+    {
+    "id": 84,
+    "english": "So did he say.",
+    "french": "C’est ce qu’il a dit."
+    },
+    {
+    "id": 85,
+    "english": "Tom is no longer afraid.",
+    "french": "Tom n'a plus peur."
+    },
+    {
+    "id": 86,
+    "english": "It's not a good translation.",
+    "french": "Ce n'est pas une bonne traduction."
+    },
+    {
+    "id": 87,
+    "english": "Why didn't you ask for help?",
+    "french": "Pourquoi n'avez-vous pas demandé de l'aide ?"
+    },
+    {
+    "id": 88,
+    "english": "Ziri didn't say anything.",
+    "french": "Ziri n'a rien dit."
+    },
+    {
+    "id": 89,
+    "english": "You should have thought of that earlier.",
+    "french": "Il fallait y penser plus tôt."
+    },
+    {
+    "id": 90,
+    "english": "It seems a bit unfair.",
+    "french": "Cela semble être un peu injuste."
+    },
+    {
+    "id": 91,
+    "english": "I don't listen to music.",
+    "french": "Je n'écoute pas de musique."
+    },
+    {
+    "id": 92,
+    "english": "That's not true. Who said that? \"Tom.\"",
+    "french": "« Ce n'est pas vrai. Qui a dit ça ? » « Tom. »"
+    },
+    {
+    "id": 93,
+    "english": "You'll never guess what I saw today.",
+    "french": "Tu ne devineras jamais ce que j'ai vu aujourd'hui."
+    },
+    {
+    "id": 94,
+    "english": "I found a few mushrooms.",
+    "french": "Je trouvais un peu de champignons."
+    },
+    {
+    "id": 95,
+    "english": "He walked right into the trap.",
+    "french": "Il a bien marché dans la combine."
+    },
+    {
+    "id": 96,
+    "english": "She has a bad reputation.",
+    "french": "Elle a mauvaise presse."
+    },
+    {
+    "id": 97,
+    "english": "Tom was haunted by the demons of his past.",
+    "french": "Tom était hanté par ses vieux démons."
+    },
+    {
+    "id": 98,
+    "english": "Tom only eats plants.",
+    "french": "Tom ne mange que des plantes."
+    },
+    {
+    "id": 99,
+    "english": "Let's start without wasting time.",
+    "french": "Commençons sans perdre de temps."
+    },
+    {
+    "id": 100,
+    "english": "Most people don't get sick from the virus.",
+    "french": "La plupart des gens ne tombent pas malades à cause du virus."
+    }
+]
